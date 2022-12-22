@@ -3,3 +3,4 @@ matplotlib==3.4.2
 seaborn
 k3d
 scipy
+multiprocess
